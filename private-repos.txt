@@ -1,0 +1,87 @@
+[mycloud]
+
+touch README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin git@github.com:chrismaier/mycloud.git
+git push -u origin master
+
+git remote add origin git@github.com:chrismaier/mycloud.git
+git push -u origin master
+
+
+
+
+[rpm-builds]
+
+touch README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin git@github.com:chrismaier/rpm-builds.git
+git push -u origin master
+
+git remote add origin git@github.com:chrismaier/rpm-builds.git
+git push -u origin master
+
+
+
+
+[junkyardrocketeer]
+
+touch README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin git@github.com:chrismaier/junkyardrocketeer.git
+git push -u origin master
+
+git remote add origin git@github.com:chrismaier/junkyardrocketeer.git
+git push -u origin master
+
+
+
+
+[bulldozerbuildscripts]
+
+touch README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin git@github.com:chrismaier/bulldozerbuildscripts.git
+git push -u origin master
+
+git remote add origin git@github.com:chrismaier/bulldozerbuildscripts.git
+git push -u origin master
+
+
+
+
+[launch-stats]
+
+touch README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin git@github.com:chrismaier/launch-stats.git
+git push -u origin master
+
+git remote add origin git@github.com:chrismaier/launch-stats.git
+git push -u origin master
+
+
+
+
+[random-crap]
+
+touch README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin git@github.com:chrismaier/random-crap.git
+git push -u origin master
+
+git remote add origin git@github.com:chrismaier/random-crap.git
+git push -u origin master
+
