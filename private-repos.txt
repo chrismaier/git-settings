@@ -1,3 +1,5 @@
+You probably wont be able to see them, but I need to have this information somewhere - at least for now
+
 [mycloud]
 
 touch README.md
