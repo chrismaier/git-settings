@@ -1,0 +1,5 @@
+# The following information has to be added when you are setting up a
+#  new server with git
+
+git config --global user.name "Chris Maier"
+git config --global user.email "maier.chris@gmail.com"
