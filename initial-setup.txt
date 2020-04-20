@@ -3,3 +3,7 @@
 
 git config --global user.name "Chris Maier"
 git config --global user.email "maier.chris@gmail.com"
+
+
+# Show the current config
+git config --global --list
