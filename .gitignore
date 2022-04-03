@@ -12,11 +12,12 @@ training_rsa
 *.key
 
 
-# Vagrant and builds
-####################
+# Vagrant and builds from sphinx, pelican etc.
+##############################################
 .vagrant*
 *.swp
 build/
+output/
 build-old/
 
 
