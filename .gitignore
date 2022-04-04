@@ -17,6 +17,7 @@ training_rsa
 .vagrant*
 *.swp
 build/
+*build
 output/
 build-old/
 
